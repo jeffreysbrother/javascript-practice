@@ -24,3 +24,33 @@ function Person(firstname, lastname) {
 }
 
 var james = new Person("James", "Cool");
+
+
+
+//***********************************************************
+
+
+//testing out Javascript-snippets
+  //type "fun"
+  //can easily tab to the function name, arguments, and function body
+
+function test1(x > 1) {
+  //something there
+}
+
+
+
+  //type "afn" for anonymous function
+  // tab to the function name, arguments, and function body
+
+var x = function(x === 3) {
+  //nonsense here
+}
+
+
+  //type "iife" for an immediately-invoked function expression
+  //cursor will appear immediately in the body
+
+(function() {
+  // cursor appears here
+}());
