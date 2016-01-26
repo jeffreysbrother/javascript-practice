@@ -24,3 +24,10 @@ function Person(firstname, lastname) {
 }
 
 var james = new Person("James", "Cool");
+
+
+
+
+
+
+// some fiddle faddle here just for testing purposes
