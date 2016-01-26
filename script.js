@@ -54,3 +54,5 @@ var x = function(x === 3) {
 (function() {
   // cursor appears here
 }());
+
+// testing the ability to set the remote (change to SSH...multiple branches)
