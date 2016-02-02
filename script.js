@@ -56,3 +56,15 @@ var x = function(x === 3) {
 }());
 
 // testing the ability to set the remote (change to SSH...multiple branches)
+
+
+
+
+//...can also simply type "if" followed by TAB in order to create an if statement, tabbing from the condition to the body
+
+if (x === 3) {
+
+}
+
+
+// USEFUL SCRIPT FOR AUTOHOTKEY REMAPPING: https://gist.github.com/Danik/5808330
